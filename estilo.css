@@ -1,0 +1,10 @@
+/*Reset*/
+html{margin: 0; padding: 0;}
+body{margin: 0;}
+
+/*Menu header*/
+header{text-align: center; margin: 0; background-color: gray; }
+
+a{text-decoration: none; color: black;}
+
+header nav a h3{display: inline; margin: 0 2% 0 2%;}
